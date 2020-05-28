@@ -14,4 +14,8 @@
 
 
 ## Reference:
+Kaiju:
 https://github.com/bioinformatics-centre/kaiju#classification-accuracy
+
+Data:
+https://nam01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fftp.sra.ebi.ac.uk%2Fvol1%2Frun%2FERR122%2FERR1223845%2FSample_EL5602_F1_HL-P_FIB.R1.trimmed.fastq.gz&data=02%7C01%7Ctnh48%40drexel.edu%7C1c2b1775c5194456bdc808d7f3825c17%7C3664e6fa47bd45a696708c4f080f8ca6%7C0%7C0%7C637245613534193335&sdata=4fuSACW4Ftg1WWMNDZmDXwm9JhqiG1uEJqGSCc86fMQ%3D&reserved=0
